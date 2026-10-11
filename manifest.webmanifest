@@ -1,6 +1,6 @@
 {
-  "name": "River Strike",
-  "short_name": "River Strike",
+  "name": "Pilot Donut",
+  "short_name": "Pilot Donut",
   "description": "Vertical-scrolling river shooter",
   "start_url": "./",
   "scope": "./",
